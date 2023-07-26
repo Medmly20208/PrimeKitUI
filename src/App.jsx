@@ -1,7 +1,12 @@
+import Header from "./components/Headers/Headers-01";
+
 function App() {
   return (
     <div>
-      <p className="text-red-500 ">ReTail Sections</p>
+      <h1>Headers</h1>
+      <div>
+        <Header />
+      </div>
     </div>
   );
 }
