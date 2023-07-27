@@ -1,9 +1,8 @@
-import Header from "./components/Headers/Headers-01";
+import Header from "./components/Headers/Header-02";
 
 function App() {
   return (
     <div>
-      <h1>Headers</h1>
       <div>
         <Header />
       </div>
