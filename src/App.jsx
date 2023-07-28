@@ -1,10 +1,10 @@
-import Header from "./components/Headers/Header-04";
+import Hero from "./components/Hero/Hero-01";
 
 function App() {
   return (
     <div>
       <div>
-        <Header />
+        <Hero />
       </div>
     </div>
   );
