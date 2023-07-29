@@ -1,4 +1,4 @@
-import Pricing from "./components/Pricing/Pricing-02";
+import Pricing from "./components/Pricing/Pricing-03";
 function App() {
   return (
     <div>
