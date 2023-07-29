@@ -1,12 +1,9 @@
-import Hero from "./components/Hero/Hero-03";
-
-import Header from "./components/Headers/Header-03";
+import Pricing from "./components/Pricing/Pricing-01";
 function App() {
   return (
     <div>
       <div>
-        <Header />
-        <Hero />
+        <Pricing />
       </div>
     </div>
   );
