@@ -5,8 +5,8 @@ const index = () => {
     <div className="text-center flex justify-center items-center flex-col mt-[40px] gap-[20px] p-[1em] max-w-[1400px]">
       <div>
         <h1 className="text-3xl font-bold">
-          <span className="text-blue-600">RTail sections,</span> Build your app
-          in seconds
+          <span className="text-blue-600">PrimeKitUI,</span> Build your app in
+          seconds
         </h1>
 
         <h1 className="text-3xl font-bold">
