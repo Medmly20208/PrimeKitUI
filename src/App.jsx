@@ -1,4 +1,4 @@
-import Features from "./components/Features/Feature-01";
+import Features from "./components/Features/Feature-02";
 function App() {
   return (
     <div>
