@@ -1,9 +1,9 @@
-import Pricing from "./components/Pricing/Pricing-03";
+import Features from "./components/Features/Feature-01";
 function App() {
   return (
     <div>
       <div>
-        <Pricing />
+        <Features />
       </div>
     </div>
   );
