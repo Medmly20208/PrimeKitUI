@@ -1,9 +1,9 @@
-import Features from "./components/Features/Feature-03";
+import Banner from "./components/Banners/Banner-01";
 function App() {
   return (
     <div>
-      <div>
-        <Features />
+      <div className="flex justify-center items-center">
+        <Banner />
       </div>
     </div>
   );
