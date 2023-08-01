@@ -1,5 +1,5 @@
 
-![PrimeKitUI](https://github.com/Medmly20208/PrimeKitUI/assets/69359301/f7ead7fe-6c88-4613-b61c-d0aa0b83d8ae)
+![PrimeKitUI](https://github.com/Medmly20208/PrimeKitUI/assets/69359301/e3a2626a-d8b2-4463-bd99-7db58c508162)
 
 
 ### an open-source project that combines the power of React and the flexibility of Tailwind CSS to streamline your web development experience
