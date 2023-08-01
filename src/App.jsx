@@ -1,9 +1,9 @@
-import Banner from "./components/Banners/Banner-03";
+import Footer from "./components/Footers/Footer-01";
 function App() {
   return (
     <div>
       <div className="flex justify-center items-center">
-        <Banner />
+        <Footer />
       </div>
     </div>
   );
