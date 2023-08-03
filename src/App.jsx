@@ -1,9 +1,9 @@
-import Card from "./components/Cards/Card-001";
+import Footer from "./components/Footers/Footer-02";
 function App() {
   return (
     <div>
       <div className="flex justify-center items-center">
-        <Card />
+        <Footer />
       </div>
     </div>
   );
