@@ -1,9 +1,9 @@
-import Footer from "./components/Footers/Footer-02";
+import Howitworks from "./components/How-it-works/How-it-works-01";
 function App() {
   return (
     <div>
       <div className="flex justify-center items-center">
-        <Footer />
+        <Howitworks />
       </div>
     </div>
   );
