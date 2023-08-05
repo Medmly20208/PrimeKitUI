@@ -1,9 +1,9 @@
-import Howitworks from "./components/How-it-works/How-it-works-01";
+import Review from "./components/Reviews/Review-01";
 function App() {
   return (
     <div>
-      <div className="flex justify-center items-center">
-        <Howitworks />
+      <div className="flex justify-center items-center mt-[100px]">
+        <Review />
       </div>
     </div>
   );
